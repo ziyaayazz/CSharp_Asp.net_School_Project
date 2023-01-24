@@ -14,7 +14,7 @@ namespace proje
         {
 
         }
-        SqlConnection bagla = new SqlConnection("Data Source=DESKTOP-3GQ92A0;Initial Catalog=ödev;Integrated Security=True");
+        SqlConnection bagla = new SqlConnection("Data Source--");
         protected void Button1_Click(object sender, EventArgs e)
         {
             bagla.Open();
