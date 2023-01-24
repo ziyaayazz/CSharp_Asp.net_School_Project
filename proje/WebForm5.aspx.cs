@@ -12,7 +12,7 @@ namespace proje
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            SqlConnection bagla = new SqlConnection("Data Source--");
+            SqlConnection bagla = new SqlConnection("Data Source=LAPTOP-(....);Initial Catalog=ödev;Integrated Security=True");
         }
         
         protected void Button1_Click(object sender, EventArgs e)
