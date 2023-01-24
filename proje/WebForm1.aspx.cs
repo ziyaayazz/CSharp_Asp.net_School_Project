@@ -19,7 +19,7 @@ namespace proje
         protected void Button1_Click(object sender, EventArgs e)
         {
             
-            if (TextBox1.Text == "404033" && TextBox2.Text == "94458")
+            if (TextBox1.Text == "41111" && TextBox2.Text == "11111")
             {
                 Response.Redirect("WebForm8.aspx");
             }
